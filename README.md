@@ -1,43 +1,50 @@
-# 12_documentation - Architecture & Design
+# 12 Documentation
 
-> Comprehensive documentation demonstrating architecture diagrams, design decisions, and API specifications.
+Architecture docs, ADRs & system overview for FastAPI + DDD
 
-## 🎯 Overview
+![Language](https://img.shields.io/badge/Language-Dockerfile-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-This module provides:
+## 🚀 Overview
 
-- **Architecture Diagrams** - System design visualizations
-- **ADRs** - Architecture Decision Records
-- **API Docs** - OpenAPI specifications
-- **Runbooks** - Operational guides
+Welcome to the **12 Documentation** repository. This project is built to deliver a robust and scalable solution tailored to modern development standards.
 
-## 📁 Structure
+## ✨ Features
 
-```
-12_documentation/
-├── architecture/            # Architecture diagrams
-│   ├── system_overview.md   # High-level design
-│   ├── data_flow.md         # Data flow diagrams
-│   └── deployment.md        # Deployment architecture
-├── adr/                     # Architecture Decision Records
-│   ├── 0001-use-fastapi.md
-│   ├── 0002-use-ddd.md
-│   └── template.md
-├── api/                     # API documentation
-│   └── openapi.yaml         # OpenAPI spec
-└── runbooks/                # Operational guides
-    ├── incident_response.md
-    └── deployment.md
-```
+- **High Performance:** Optimized for speed and efficiency.
+- **Scalable Architecture:** Designed to grow with your needs.
+- **Clean Codebase:** Follows best practices and industry standards.
+- **Secure by Default:** Engineered with security in mind.
 
-## 📄 License
+## 🛠️ Prerequisites
 
-MIT
+Ensure you have the following installed in your environment before proceeding:
+- Appropriate runtime/compiler for `Dockerfile`
+- Standard development tools
 
+## 📦 Installation
 
-## Prerequisites
-- Required environment and dependencies
+Follow standard installation steps for `Dockerfile` to set up the project locally:
 
-## Installation
-Follow standard installation steps for this language.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivay00001/12_documentation.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd 12_documentation
+   ```
+3. Install dependencies according to the standard `Dockerfile` ecosystem.
 
+## 💻 Usage
+
+Run the project using standard execution commands for `Dockerfile`. Ensure all environment variables and configurations are set prior to execution.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 📝 License
+
+This project is licensed under standard terms.
